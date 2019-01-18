@@ -1,0 +1,11 @@
+{
+	"name": "fib-alicloud-sms",
+	"version": "1.0.0",
+	"description": "Send message on Alicloud platform.",
+	"main": "index.js",
+	"scripts": {
+		"test": "fibjs test.js"
+	},
+	"author": "Young Shen",
+	"license": "ISC"
+}
